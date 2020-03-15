@@ -1,0 +1,42 @@
+LinkedIn was built to help professionals achieve more in their careers, and every day millions of people use our products to make connections, discover opportunities and gain insights. Our global reach means we get to make a direct impact on the world¡¯s workforce in ways no other company can. We¡¯re much more than a digital resume ¨C we transform lives through innovative products and technology. 
+
+ 
+
+LinkedIn¡¯s Strategy & Insights Data Scientists leverage big data to empower business decisions and deliver insights, metrics, and tools in order to drive member engagement, business growth, and monetization efforts. With over 645 million members around the world, a focus on great user experience, and a mix of B2B and B2C programs, a career at LinkedIn offers countless ways for an ambitious data scientist to have an impact. 
+
+ 
+
+We are looking for a talented and driven individual to accelerate our efforts and be a major part of our data-centric culture. This person will work as a thought partner with various cross-functional teams such as product, marketing, sales, engineering, policy and operations to develop and deliver metrics, analyses, solutions, and insights, with actionable recommendations to business partners. Successful candidates will exhibit technical acumen, product sense and business savvy, with a passion for making an impact through creative storytelling and timely actions. 
+
+ 
+
+Responsibilities 
+
+Communicate findings to senior leaders and evangelize data-driven business decisions. 
+Work with a team of high-performing data science professionals, and cross-functional teams to identify business opportunities, optimize product performance or go to market strategy. 
+Analyze large-scale structured and unstructured data; develop deep-dive analyses and machine learning models to drive member value and customer success. 
+Design and develop core business metrics, create insightful automated dashboards and data visualization to track them and extract useful business and product insights 
+Design and analyze experiments to test new product ideas or go to market strategies. Convert the results into actionable recommendations. 
+Craft compelling stories; make logical recommendations; drive informed actions. 
+Initiate and drive projects to completion with minimal guidance. 
+ 
+
+Basic Qualifications 
+
+Bachelor, Masters or PhD degree in a quantitative discipline: statistics, operations research, computer science, informatics, engineering, applied mathematics, economics, etc. or equivalent work experience. 
+BS 3+ years of relevant work experience, MS 2+ years of relevant work experience, or PhD 2+ years of relevant work experience 
+Experience influencing strategy through data-centric presentations. 
+Proficiency in SQL. 
+Experience telling stories with data and visualization tools 
+ 
+
+Preferred Qualifications 
+
+Experience in high-tech company working with massive-scale data. 
+Proven record writing and optimizing code with high levels of craftsmanship 
+Working knowledge of Unix command-line/shell, git and review board. 
+Experience running platform experiments and techniques like A/B testing 
+Excellent communication skills, with the ability to synthesize, simplify and explain complex problems to different types of audience, including executives and compile compelling narratives 
+Background in other programming languages (e.g., R, Python, Scala) 
+Experience in applied statistics and statistical modeling 
+Entrepreneurial experience
