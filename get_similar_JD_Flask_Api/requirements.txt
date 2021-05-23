@@ -150,7 +150,7 @@ ssh-import-id==5.7
 systemd-python==234
 tb-nightly==1.14.0a20190301
 tensorboardX==2.0
-tensorflow-gpu==2.0.0a0
+tensorflow-gpu==2.5.0rc0
 tensorflow-metadata==0.14.0
 termcolor==1.1.0
 terminado==0.8.2
